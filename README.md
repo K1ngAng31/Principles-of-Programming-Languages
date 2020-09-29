@@ -1,8 +1,10 @@
 # Principles-of-Programming-Languages
 
-###Course Work all done in python through Jupyter Notebooks
-###Feel Free to check out any code.
-###Please use appropriately.
+### Course Work all done in python through Jupyter Notebooks
+
+### Feel Free to check out any code.
+
+### Please use appropriately.
 ---
 
 **Description**
