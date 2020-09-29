@@ -1,4 +1,4 @@
-# Principles-of-Programming-Languages
+# Principles of Programming Languages (PPL)
 
 ### Course Work all done in python through Jupyter Notebooks
 
